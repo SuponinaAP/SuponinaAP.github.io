@@ -149,10 +149,9 @@ To use the git system you need to:
 
 There are many different commands that allow you to interact with the repository through the guide, below are a few schematics with different commands.
 
-image:
-  caption: 'Image credit: [get-started](ИндЛаб2.png)'
+[The figure shows how to prepare a folder on the local computer for git.](ИндЛаб2.png)'
 
-The figure shows how to prepare a folder on the local computer for git.
+
 
 image:
   caption: 'Image credit: [get-started](ИндЛаб2.2.png)'
