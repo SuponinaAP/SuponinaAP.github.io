@@ -6,7 +6,7 @@ date: 2023-10-27
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://res.cloudinary.com/practicaldev/image/fetch/s--qK4SKs-g--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/tl1hxlu6ufwx0kbhpzim.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
