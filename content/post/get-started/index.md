@@ -15,6 +15,7 @@ tags:
   - Git
   - Markdown
 ---
+**[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
 
 Welcome 👋
 
