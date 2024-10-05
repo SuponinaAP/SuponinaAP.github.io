@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-I am Suponina Anastasia. At the moment I am a first year student of the master's program at rudn in the direction of “Applied mathematics and computer science”. Previously I studied at the bachelor's degree program at the same university and in the same direction. I like to do this, but I also like various creative activities.
+I am Suponina Anastasia. at the moment I am a first year student of the master's program at rudn in the direction of “Applied mathematics and computer science”. Previously I studied at the bachelor's degree program at the same university and in the same direction. I like to do this, but I also like various creative activities.
