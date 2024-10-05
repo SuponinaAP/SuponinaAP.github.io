@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Супонина Анастасия Павловна
+title: Anastasiya
 
 # Name pronunciation (optional)
-name_pronunciation: Супонина Анастасия Павловна
+name_pronunciation: Suponina Anastasiya Pavlovna
 
 # Full name (for SEO)
-first_name: Анастасия
-last_name: Супонина
+first_name: Anastasiya
+last_name: Suponina
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: студент
+role: student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://openai.com/
 
 # Social network links
@@ -47,22 +47,22 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Гитара и музыка
-  - Программирование и компьютеры
-  - Литература и книжные вечера
+  - Music and guitar
+  - Programming and computers
+  - Literature and book evenings
 
 education:
-  - area: бакалавр
-    institution: РУДН
+  - area: bachelor
+    institution: RUDN
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      Закончила бакалавр в Российском университете дружбы народов имени Патриса Лумумбы по направлению "Прикладная математика и информатика".
+      I graduated with a bachelor's degree in Applied Mathematics and Informatics from the Peoples' Friendship University of Russia named after Patrice Lumumba.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: магистратура
-    institution: РУДН
+  - area: magistracy
+    institution: RUDN
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
