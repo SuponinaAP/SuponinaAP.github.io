@@ -94,39 +94,39 @@ header-includes:
 
 Первым делом разместила новый файл avatar.jpg со своеё фотографией.
 
-![Замена фото](PhotoIntLab2\photoIndlab2.JPG)
+![Замена фото](PhotoIndLab2/photoIndlab2.JPG)
 
 Далее разместила своё краткое описание (Biography).
 
-![Описание](PhotoIntLab2\photoIndlab2.1.JPG)
-![Текст "About me"](PhotoIntLab2\photoIndlab2.4.JPG)
+![Описание](PhotoIndLab2/photoIndlab2.1.JPG)
+![Текст "About me"](PhotoIndLab2/photoIndlab2.4.JPG)
 
 Добавила информацию о своих интересах (Interests).
 
-![Интересы](PhotoIntLab2\photoIndlab2.2.JPG)
+![Интересы](PhotoIndLab2/photoIndlab2.2.JPG)
 
 И добавила информацию об образовании (Education).
 
-![Образование](PhotoIntLab2\photoIndlab2.3.JPG)
+![Образование](PhotoIndLab2/photoIndlab2.3.JPG)
 
 После зашла и проверила изменение на странице сайта, для того, чтобы проверить результат
 
-![Сайт с добавлением изменений](PhotoIntLab2\photoIndlab2.5.JPG)
+![Сайт с добавлением изменений](PhotoIndLab2/photoIndlab2.5.JPG)
 
 ## Добавление поста
 
 Далее я перешла к созданию нового поста и его публикации.
 Для поста я выбрала тему "Управление версиями. Git."
 
-![Создание нового поста](PhotoIntLab2\photoIndlab2.8.JPG)
+![Создание нового поста](PhotoIndLab2/photoIndlab2.8.JPG)
 
 И также как и ранее после добавления изменений в репозиторий, зашла на страницу сайта где нашла опубликованный пост
 
-![Отображение данных о посте на главной странице](PhotoIntLab2\photoIndlab2.6.JPG)
+![Отображение данных о посте на главной странице](PhotoIndLab2/photoIndlab2.6.JPG)
 
 И перейдя по ссылке проверила результат отображения написанного поста
 
-![Отображение поста при переходе по ссыле на сайте](PhotoIntLab2\photoIndlab2.6.JPG)
+![Отображение поста при переходе по ссыле на сайте](PhotoIndLab2/photoIndlab2.6.JPG)
 
 # Выводы
 
