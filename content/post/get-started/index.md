@@ -150,18 +150,18 @@ To use the git system you need to:
 There are many different commands that allow you to interact with the repository through the guide, below are a few schematics with different commands.
 
 image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.png)'
+  caption: 'Image credit: [get-started](ИндЛаб2.png)'
 
 The figure shows how to prepare a folder on the local computer for git.
 
 image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.2.png)'
+  caption: 'Image credit: [get-started](ИндЛаб2.2.png)'
 
 The diagram in Fig. 2 shows how the commands add, commit all, commit, reset, git reset head, git update index work.
 The diagram below shows the difference between working with a local repository and a repository on GitHub.
 
 image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.3.png)'
+  caption: 'Image credit: [get-started](ИндЛаб2.3.png)'
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
