@@ -14,6 +14,8 @@ author:
 tags:
   - Git
   - Markdown
+
+favorite = false
 ---
 
 Welcome 👋
