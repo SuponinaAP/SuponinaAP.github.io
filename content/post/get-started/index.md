@@ -144,19 +144,3 @@ To use the git system you need to:
 8. Submit changes to GitHub
 9. Register developer accounts for your project
 10. Give them a link to the project
-
-There are many different commands that allow you to interact with the repository through the guide, below are a few schematics with different commands.
-
-image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.png)'
-
-The figure shows how to prepare a folder on the local computer for git.
-
-image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.2.png)'
-
-The diagram in Fig. 2 shows how the commands add, commit all, commit, reset, git reset head, git update index work.
-The diagram below shows the difference between working with a local repository and a repository on GitHub.
-
-image:
-  caption: 'Image credit: [**Unsplash**](ИндЛаб2.3.png)'
