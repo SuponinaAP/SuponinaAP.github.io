@@ -15,7 +15,7 @@ tags:
   - Git
   - Markdown
 
-favorite = true
+favorite: true
 ---
 
 Welcome 👋
