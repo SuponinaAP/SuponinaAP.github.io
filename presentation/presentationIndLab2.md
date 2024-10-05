@@ -24,36 +24,36 @@ section-titles: true
 
 ## Размещение новой фотографии.
 
-![Замена фото](report/PhotoIndLab2/photoIndlab2.JPG){ #fig:001 width=70% }
+![Замена фото](PhotoIndLab2/photoIndlab2.JPG){ #fig:001 width=70% }
 
 ## Размещение краткого описания (Biography).
 
-![Описание](report/PhotoIndLab2/photoIndlab2.1.JPG){ #fig:009 width=70% }
-![Текст "About me"](report/PhotoIndLab2/photoIndlab2.4.JPG){ #fig:009 width=70% }
+![Описание](PhotoIndLab2/photoIndlab2.1.JPG){ #fig:009 width=70% }
+![Текст "About me"](PhotoIndLab2/photoIndlab2.4.JPG){ #fig:009 width=70% }
 
 ## Добавление информации о интересах (Interests).
 
-![Интересы](report/PhotoIndLab2/photoIndlab2.2.JPG){ #fig:002 width=70% }
+![Интересы](PhotoIndLab2/photoIndlab2.2.JPG){ #fig:002 width=70% }
 
 ## Добавление информации об образовании (Education).
 
-![Образование](report/PhotoIndLab2/photoIndlab2.3.JPG){ #fig:002 width=70% }
+![Образование](PhotoIndLab2/photoIndlab2.3.JPG){ #fig:002 width=70% }
 
 ## Результат обновления информации.
 
-![Сайт с добавлением изменений](report/PhotoIndLab2/photoIndlab2.5.JPG){ #fig:002 width=70% }
+![Сайт с добавлением изменений](PhotoIndLab2/photoIndlab2.5.JPG){ #fig:002 width=70% }
 
 ## Создание нового поста "Управление версиями. Git."
 
-![Создание нового поста](report/PhotoIndLab2/photoIndlab2.8.JPG){ #fig:002 width=70% }
+![Создание нового поста](PhotoIndLab2/photoIndlab2.8.JPG){ #fig:002 width=70% }
 
 ## Отображение данных о посте на главной странице
 
-![Отображение данных о посте на главной странице](report/PhotoIndLab2/photoIndlab2.6.JPG){ #fig:002 width=70% }
+![Отображение данных о посте на главной странице](PhotoIndLab2/photoIndlab2.6.JPG){ #fig:002 width=70% }
 
 ## Отображение поста при переходе по ссыле на сайте
 
-![Отображение поста при переходе по ссыле на сайте](report/PhotoIndLab2/photoIndlab2.7.JPG){ #fig:002 width=70% }
+![Отображение поста при переходе по ссыле на сайте](PhotoIndLab2/photoIndlab2.7.JPG){ #fig:002 width=70% }
 
 ## Выводы
 
