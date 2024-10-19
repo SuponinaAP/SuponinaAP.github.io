@@ -1,138 +1,22 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Пост о результатах прошешей недели с 2023-10-14 до 2023-10-19
+summary: Короткий рассказ о том чем я занималась в течении недели.
+date: 2024-10-19
 authors:
   - admin
 tags:
-  - Second Brain
+  - Python
+  - Julia
   - Markdown
+  - РУДН
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+На этой неделе я успела выполнить несколько разных работ две из которых были по дисциплине "Моделирование беспроводных сетей" и две по "Научному программироваю".
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+По первым двум работам я писала код на языке программирования Python. Я научилась вычислять математическое ожидание и дисперсию, а также работала с двумя библиотеками numpy и matplotlib.pyplot. Создавала наборы точек с различными распределениями, например нормальным, экспоненциальным ил Лапласа. Рисовала графики на которых отображались эти точки и смотрела как количество точек влияет на точность отображения графика в сравнении с графиком созданным по теоретическим формулам взятым из wikipedia.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+По "Научному программироваю" в групповом проекте, я вместе со своей командой находила разные алгоритмы, для решения задачи об эпидемии, мы подошли к алгоритмам с трех сторон и сделал один простой и аналитический, также познакомились с алгоритмом Рунге-Кутты. А ещё узнали о существовании в языке программирования Julia библиотеки для решения дифференциальных уравнений DifferentialEquations, познакомились с тем как она работает и разобрались какия из её функций понадобиться нам для численного решения нашей задачи.
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+Также я выполнила индивидуальную лабораторную работу 3, в которой внесла на сайт информацию о научных достижениях, опыте и работе. А также опубликовала пост связанный с языком разметки Markdown.
