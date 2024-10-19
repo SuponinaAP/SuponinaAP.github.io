@@ -1,6 +1,6 @@
 ---
 title: Git — distributed version control system
-summary: This article will provide a brief overview of the Git version control system, with a focus on the practical application of its main commands.
+summary: Это article will provide a brief overview of the Git version control system, with a focus on the practical application of its main commands.
 date: 2024-10-05
 
 # Featured image
