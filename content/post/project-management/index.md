@@ -1,94 +1,49 @@
 ---
 title: ✅ Manage your projects
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
+date: 2024-10-19
+author:
   - admin
 tags:
-  - Hugo Blox
   - Markdown
+favorite: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+Добро пожаловать 👋
 
-## Ideation
+{{< toc mobile_only=true is_open=true >}}
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## Цель публикации.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+Показать основные возможности языка разметки Markdown.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+## История создания
 
-renders as
+### Цитата из Вики:
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («<») и амперсанды («&») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков (см. ниже). Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.
 
-## Diagrams
+## Примеры синтаксиса
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+"#" - преобразует текст в заголовок, чем больше # тем ниже уровень заголовка
 
-An example **Gantt diagram**:
+[Заголовки](IndLab3.jpg)
 
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
+- '* ... * - выделение тестка, аналог курсив в docs
 
-renders as
+- ** ... ** - выделение тестка, аналог жирный в docs
 
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
+- *** ... *** - выделение тестка, аналог жирный курсив в docs
 
-## Todo lists
+- ~~ ... ~~ - перечеркнутый текст
 
-You can even write your todo lists in Markdown too:
+- ` ... ` - для записи кода
+[Выделение текста](ИндЛаб3.1.png)
 
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
+"$$ ... $$" - используется для записи формул
 
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+[Общая таблица с основными методами](ИндЛаб3.2.png)
