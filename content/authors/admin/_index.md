@@ -3,11 +3,11 @@
 title: Анастасия
 
 # Name pronunciation (optional)
-name_pronunciation: Suponina Anastasiya Pavlovna
+name_pronunciation: Супонина Анастасия Павловна
 
 # Full name (for SEO)
-first_name: Anastasiya
-last_name: Suponina
+first_name: Анастасия
+last_name: Супонина
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: student
+role: студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RUDN
-    url: https://openai.com/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,22 +47,22 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Music and guitar
-  - Programming and computers
-  - Literature and book evenings
+  - Музыка и гитара
+  - Программирование 
+  - Литература
 
 education:
-  - area: bachelor
-    institution: RUDN
+  - area: бакалавр
+    institution: РУДН
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      I graduated with a bachelor's degree in Applied Mathematics and Informatics from the Peoples' Friendship University of Russia named after Patrice Lumumba.
+      Я окончила Российский университет дружбы народов имени Патриса Лумумбы со степенью бакалавра по специальности «Прикладная математика и информатика».
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: magistracy
-    institution: RUDN
+  - area: магистратура
+    institution: РУДН
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
@@ -167,6 +167,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Обо мне
 
-I am Suponina Anastasia. at the moment I am a first year student of the master's program at rudn in the direction of “Applied mathematics and computer science”. Previously I studied at the bachelor's degree program at the same university and in the same direction. I like to do this, but I also like various creative activities.
+Меня зовут Супонина Анастасия. В данный момент я являюсь студенткой первого курса магистратуры rudn по направлению «Прикладная математика и информатика». Ранее я училась на бакалавриате в том же университете и по тому же направлению. Мне нравится заниматься этим, но я также люблю различные творческие занятия.
