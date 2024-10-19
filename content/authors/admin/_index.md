@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anastasiya
+title: Анастасия
 
 # Name pronunciation (optional)
 name_pronunciation: Suponina Anastasiya Pavlovna
@@ -68,6 +68,7 @@ education:
     summary: |
       GPA: 3.8/4.0
 
+# experience
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
