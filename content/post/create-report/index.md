@@ -5,8 +5,6 @@ date: 2024-11-02
 authors:
   - admin
 tags:
-  - Python
-  - Julia
   - Markdown
   - РУДН
 image:
