@@ -31,21 +31,32 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 1132249566@pfur.ru
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+  - icon: brands/Etsy
+    url: https://www.elibrary.ru/
+    label: academicons/Elsevier
+  - icon: brands/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+    label: Google Scholar
+  - icon: brands/orcid
+    url:  https://orcid.org/
+    label: ORCID
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com
+    label: Mendeley
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/
+    label: ResearchGate
+  - icon: academicons/academia
+    url: https://independent.academia.edu/
+    label: Academia
+  - icon: brands/arxiv
+    url: https://arxiv.org/
+    label: arXiv
+  - icon: brands/github
+    url: https://github.com/
+    label: GitHub
 interests:
   - Музыка и гитара
   - Программирование 
