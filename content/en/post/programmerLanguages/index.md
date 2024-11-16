@@ -1,7 +1,7 @@
 ---
 title: Scientific programming languages.
 summary: A short story about scientific programming languages.
-date: 2024-11-02
+date: 2024-11-16
 authors:
   - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: A post about last week's results from 2023-11-16 to 2023-11-11
 summary: A short account of what I did during the week.
-date: 2024-10-19
+date: 2024-11-16
 authors:
   - admin
 tags:
