@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Последние новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
