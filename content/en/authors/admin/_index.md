@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Анастасия
+title: Anastasia
 
 # Name pronunciation (optional)
-name_pronunciation: Супонина Анастасия Павловна
+name_pronunciation: Suponina Anastasia Pavlovna
 
 # Full name (for SEO)
-first_name: Анастасия
-last_name: Супонина
+first_name: Anastasia
+last_name: Suponina
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: студент
+role: student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru/
 
 # Social network links
@@ -58,21 +58,21 @@ profiles:
     url: https://github.com/
     label: GitHub
 interests:
-  - Музыка и гитара
-  - Программирование 
-  - Литература
+  - Music and guitar
+  - Programming 
+  - Literature
 
 education:
-  - area: бакалавр
-    institution: РУДН
+  - area: bachelor
+    institution: RUDN
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      Я окончила Российский университет дружбы народов имени Патриса Лумумбы со степенью бакалавра по специальности «Прикладная математика и информатика».
+      I graduated from the Peoples' Friendship University of Russia named after Patrice Lumumba with a Bachelor's degree in Applied Mathematics and Informatics.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: магистратура
+  - area: magistracy
     institution: РУДН
     date_start: 2024-09-01
     date_end: 2026-07-01
@@ -81,17 +81,17 @@ education:
 
 # experience
 work:
-  - position: Вожатая
-    company_name: Детский городской клуб "Лето Побед"
+  - position: Counsellor
+    company_name: "Summer of Victories" Children's City Club
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
     date_end: '2023-08-27'
     summary: |2-
-      В обязаности входило:
-      - Сопровождение детей на разные мероприятия
-      - Создание вместе с детьми разных выступлений для концертов
-      - Создание и проведение развлекательной и позновательной программы
+      Duties included:
+      - Accompanying children to different events
+      - Creating together with children different performances for concerts
+      - Creating and conducting entertaining and informative programme
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -132,9 +132,9 @@ skills:
         icon: book
 
 languages:
-  - name: Русский язык
+  - name: russian
     percent: 100
-  - name: Английский язык
+  - name: english
     percent: 50
 
 # Awards.
@@ -142,39 +142,39 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Практикум по математике и Python
+  - title: Maths and Python Workshop
     url: https://stepik.org/course/3356/syllabus
     date: '2022-08-31'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Практикум по математике и Python", в котором ознакомилась с основными возможностями языка программирования python. Изучила типы, основные циклы и функции, а также библиотеки, такие как numpy.
-  - title: Основы Python
+      I have successfully completed a course on the Stepik platform called ‘Maths and Python Workshop’ in which I learnt the basic features of the python programming language. I learnt types, basic loops and functions as well as libraries such as numpy.
+  - title: Python Fundamentals
     url: https://ru.hexlet.io/courses/python-basics
     date: '2022-07-25'
     awarder: hexlet
     icon: hexlet
     summary: |
-      Я успешно завершила курс на платформе hexlet под названием "Основы Python", в котором изучила базовые основы языка программирования Python.
-  - title: Введение в Data Science и машинное обучение
+      I have successfully completed a course on the hexlet platform called ‘Python Fundamentals’ in which I learnt the basic fundamentals of the Python programming language.
+  - title: Introduction to Data Science and Machine Learning
     url: https://stepik.org/course/4852/promo
     date: '2023-01-24'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Введение в Data Science и машинное обучение", в изучила библиотеки для анализа данных, используя язык программирования Python — Pandas и Scikit-learn.
-  - title: Машинное обучение
+      I have successfully completed a course on Stepik platform titled ‘Introduction to Data Science and Machine Learning’, in learning libraries for data analysis using Python programming language - Pandas and Scikit-learn.
+  - title: Machine Learning
     url: https://stepik.org/course/8057/promo
     date: '2023-01-24'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Машинное обучение", в котором научилась обрабатывать большие объемы данных и извлекать из них скрытые закономерности. А также узнала:
-        - какие задачи можно полностью поручить ЭВМ;
-        - какие этапы процесса сможет выполнить лишь человек;
-        - самое главное – отличать пункт а) от пункта б).
+      I successfully completed a course on the Stepik platform called Machine Learning, in which I learnt how to process large amounts of data and extract hidden patterns from it. I also learnt
+        - which tasks can be completely outsourced to a computer;
+        - which process steps can only be performed by a human;
+        - most importantly, to distinguish a) from b).
 ---
 
-## Обо мне
+## About me
 
-Меня зовут Супонина Анастасия. В данный момент я являюсь студенткой первого курса магистратуры rudn по направлению «Прикладная математика и информатика». Ранее я училась на бакалавриате в том же университете и по тому же направлению. Мне нравится заниматься этим, но я также люблю различные творческие занятия.
+My name is Suponina Anastasia. At the moment I am a first-year student of the Master's programme at rudn in the direction of ‘Applied Mathematics and Informatics’. Previously I studied at the bachelor's programme at the same university and in the same direction. I enjoy doing this, but I also like various creative activities.

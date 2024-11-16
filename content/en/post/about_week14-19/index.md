@@ -1,6 +1,6 @@
 ---
-title: Пост о результатах прошешей недели с 2023-10-14 до 2023-10-19
-summary: Короткий рассказ о том чем я занималась в течении недели.
+title: A post about the results of the week 2023-10-14 to 2023-10-19.
+summary: A short account of what I did during the week.
 date: 2024-10-19
 authors:
   - admin
@@ -13,10 +13,10 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-На этой неделе я успела выполнить несколько разных работ две из которых были по дисциплине "Моделирование беспроводных сетей" и две по "Научному программироваю".
+This week I had time to do several different works, two of which were on ‘Modelling of wireless networks’ and two on ‘Scientific programming’.
 
-По первым двум работам я писала код на языке программирования Python. Я научилась вычислять математическое ожидание и дисперсию, а также работала с двумя библиотеками numpy и matplotlib.pyplot. Создавала наборы точек с различными распределениями, например нормальным, экспоненциальным ил Лапласа. Рисовала графики на которых отображались эти точки и смотрела как количество точек влияет на точность отображения графика в сравнении с графиком созданным по теоретическим формулам взятым из wikipedia.
+For the first two papers I wrote code in the Python programming language. I learnt how to calculate mathematical expectation and variance and worked with two libraries numpy and matplotlib.pyplot. I created sets of points with different distributions such as normal, exponential or Laplace. I drew graphs on which these points were displayed and watched how the number of points affects the accuracy of the graph compared to the graph created by theoretical formulas taken from wikipedia.
 
-По "Научному программироваю" в групповом проекте, я вместе со своей командой находила разные алгоритмы, для решения задачи об эпидемии, мы подошли к алгоритмам с трех сторон и сделал один простой и аналитический, также познакомились с алгоритмом Рунге-Кутты. А ещё узнали о существовании в языке программирования Julia библиотеки для решения дифференциальных уравнений DifferentialEquations, познакомились с тем как она работает и разобрались какия из её функций понадобиться нам для численного решения нашей задачи.
+On ‘Scientific Programming’ in group project, I together with my team found different algorithms to solve the problem about the epidemic, we approached algorithms from three sides and made one simple and analytical, also got acquainted with Runge-Kutta algorithm. We also learnt about the existence of DifferentialEquations library for solving differential equations in Julia programming language, got acquainted with how it works and figured out which of its functions we will need for numerical solution of our problem.
 
-Также я выполнила индивидуальную лабораторную работу 3, в которой внесла на сайт информацию о научных достижениях, опыте и работе. А также опубликовала пост связанный с языком разметки Markdown.
+I also did individual lab work 3, in which I contributed information about my research achievements, experience and work to the website. I also published a post related to Markdown markup language.

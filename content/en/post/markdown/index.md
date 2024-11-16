@@ -1,6 +1,6 @@
 ---
 title: Markdown
-summary: Пиши один отчет и преобразовывай его в любой формат документа при помощи Markdown
+summary: Write one report and convert it to any document format using Markdown
 date: 2024-10-19
 author:
   - admin
@@ -11,40 +11,37 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Добро пожаловать 👋
 
-{{< toc mobile_only=true is_open=true >}}
+## Publication Objective.
 
-## Цель публикации.
-
-Показать основные возможности языка разметки Markdown.
+To show the main features of Markdown markup language.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-## История создания
+### History of Creation
 
-### Цитата из Вики:
+### Quote from Wiki:
 
-Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («<») и амперсанды («&») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков (см. ниже). Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.
+Originally created in 2004 by John Gruber and Aaron Schwartz. Many of the language's ideas were borrowed from existing conventions for marking up text in emails. Markdown language implementations convert Markdown-formatted text into valid, properly constructed XHTML and replace left angle brackets (‘<’) and ampersands (‘&’) with appropriate entity codes. The first implementation of Markdown was a Perl implementation written by Gruber, but many third-party implementations have appeared over time (see below). The Perl implementation is distributed under a BSD licence. Markdown implementations in various programming languages are included (or available as a plugin) in many content management systems.
 
-## Примеры синтаксиса
+## Syntax examples
 
-"#" - преобразует текст в заголовок, чем больше # тем ниже уровень заголовка
+‘#’ - converts text to a header, the higher the # the lower the level of the header
 
-[Заголовки](IndLab3.jpg)
+[Headers](IndLab3.jpg)
 
-- '* ... * - выделение тестка, аналог курсив в docs
+- ‘* ... '* - italicises text, analogue of italics in docs
 
-- ** ... ** - выделение тестка, аналог жирный в docs
+- ** ... ** ... ** - text highlighting, analogue to bold in docs
 
-- *** ... *** - выделение тестка, аналог жирный курсив в docs
+- *** ... *** ... *** - bold italics in docs
 
-- ~~ ... ~~ - перечеркнутый текст
+- ~~ ... ~~~ - crossed out text
 
-- ` ... ` - для записи кода
+- ` ... ` - for writing code
 
-[Выделение текста](ИндЛаб3.1.png)
+[Text Highlighting](ИндЛаб3.1.png)
 
-"$$ ... $$" - используется для записи формул
+‘$$ ... $$’ - is used to write formulas
 
-[Общая таблица с основными методами](ИндЛаб3.2.png)
+[General table with basic methods](ИндЛаб3.2.png)

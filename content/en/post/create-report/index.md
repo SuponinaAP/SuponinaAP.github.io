@@ -1,142 +1,142 @@
 ---
-title: Как нужно оформлять отчет.
-summary: Короткий рассказ о самых важных моментах в оформлении отчета.
+title: How to write a report.
+summary: A short story about the most important points in report writing.
 date: 2024-11-02
 authors:
   - admin
 tags:
   - Markdown
-  - РУДН
+  - RUDN
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-# Оформление отчёта.
+## Report formatting.
 
-## СТРУКТУРНЫЕ ЭЛЕМЕНТЫ
+## STRUCTURAL ELEMENTS
 
-Структурными элементами пояснительной записки (ПЗ) являются:
+The structural elements of the explanatory note (EL) are:
 
-- титульный лист;
-- реферат;
-- содержание;
-- введение;
-- основная часть;
-- заключение;
-- список использованных источников;
-- приложения.
+- title page;
+- abstract;
+- content;
+- introduction;
+- main part;
+- conclusion;
+- list of used sources;
+- appendices.
 
-Каждый структурный элемент должен начинаться с нового листа!
-
-
-## ОБЩИЕ ТРЕБОВАНИЯ
-
-1) Шрифт: Times New Roman, обычный, цвет: черный, размер 14 п,
-2) Выравнивание текста – по ширине,
-3) Межстрочный интервал - полуторный,
-4) Красная строка (Абзацный отступ) - 1,25 см,
-5) Отступы и интервалы в тексте - 0 см.
+Each structural element should start from a new sheet!
 
 
-## СОДЕРЖАНИЕ
+## GENERAL REQUIREMENTS
 
-Пункты **СОДЕРЖАНИЕ, ВВЕДЕНИЕ, ЗАКЛЮЧЕНИЕ, СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ, ПРИЛОЖЕНИЯ** (или ПРИЛОЖЕНИЕ А,
-ПРИЛОЖЕНИЕ Б и т.д.) - НЕ нумеруются и пишутся прописными (заглавными) буквами.
-
-Название **подразделов** (заголовки второго уровня) сдвигаются на 2 знака (0,5 см - на линейке), а **следующие названия пунктов** еще на 2 знака, т.е. всего на 4 знака (1 см - на линейке). Если название длинное, то его продолжают на следующей строке с того же отступа, что и на первой.
-
-Каждую запись содержания оформляют как отдельный абзац, выровненный влево.
-
-Номера страниц указывают выровненными по правому краю поля и соединяют с наименованием структурного элемента или раздела отчета посредством отточия.
+1) Font: Times New Roman, plain, colour: black, size 14 p,
+2) Text alignment - width,
+3) Line spacing - one and a half,
+4) Red line (paragraph indent) - 1.25 cm,
+5) Indentation and spacing in the text - 0 cm.
 
 
-## РАЗДЕЛЫ ДОКУМЕНТОВ
+## CONTENTS
 
-**Заголовки разделов** пишутся с абзацным отступом (как и основной текст), в конце цифр и текста заголовка точки НЕ ставятся. Для выделения заголовков использовать
-полужирный шрифт, а также прописное и строчное написание, после заголовка и подзаголовка - одна пустая строка.
+Paragraphs **COUNTER, INTRODUCTION, CONCLUSION, LIST OF SOURCES, APPENDICES** (or APPENDIX A,
+APPENDIX B, etc.) are NOT numbered and should be written in capital letters.
 
-Названия разделов **СОДЕРЖАНИЕ, ВВЕДЕНИЕ, ЗАКЛЮЧЕНИЕ, СПИСОК
-ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ, ПРИЛОЖЕНИЯ** всегда начинаются с новой страницы, пишутся ЗАГЛАВНЫМИ БУКВАМИ ПОСЕРЕДИНЕ СТРОКИ, где:
-- Межстрочный интервал: - полуторный
-- Красная строка: - отсутствует
-- Абзацные отступы и интервалы: в тексте - 0 см.
+The title of **subsections** (second level headings) are moved by 2 characters (0.5 cm - on the ruler) and **sequential paragraph titles** by another 2 characters, i.e. a total of 4 characters (1 cm - on the ruler). If the title is long, it should be continued on the next line with the same indentation as on the first line.
 
+Each entry of the content is formed as a separate paragraph, aligned to the left.
 
-## ПЕРЕЧИСЛЕНИЯ (СПИСКИ)
-
-Перед каждой позицией перечисления следует ставить тире или, при необходимости ссылки в тексте документа на одно из перечислений, строчную букву, начиная с буквы "а" (за исключением – г, ё, з, й, о, ъ, ы, ь), после которой ставится скобка.
-
-**НЕ допускается** использование данной точки « ».
-
-При наличии конкретного числа перечислений допускается использовать арабские цифры со скобками.
-
-Для дальнейшей детализации перечислений необходимо использовать арабские цифры, после которых ставится скобка, а запись производится с абзацного отступа, как у
-обычного текста.
+Page numbers are indicated aligned to the right margin and connected with the name of the structural element or section of the report by means of an indent.
 
 
-## РИСУНКИ
+## DOCUMENT SECTIONS
 
-ПЕРЕД вставкой рисунка обязательно должна быть ссылка на него в тексте, **под рисунком должна быть полная подпись**, после рисунка - пустая строка.
+**Section headings** are written with a paragraph indent (like the main text), dots are NOT placed at the end of figures and heading text. To emphasise headings, use
+bold, uppercase and lowercase, with one blank line after the heading and subheading.
 
-Не допускается сокращение типа Рис.5! В тексте обязательно полное написание – рисунок 5. Если рисунок в отчете всего один, то он обозначатся "Рисунок 1". 
-
-
-## ФОРМУЛЫ И УРАВНЕНИЯ
-
-Уравнения и формулы следует выделять из текста в отдельную строку. Выше и ниже каждой формулы или уравнения должно быть оставлено не менее одной свободной строки.
-
-Если уравнение не умещается в одну строку, то оно должно быть перенесено после знака равенства (=) или после знаков плюс (+), минус (–), умножения (х), деления (:), или других
-математических знаков, причем знак в начале следующей строки повторяют. При переносе формулы на знаке, символизирующем операцию умножения, применяют знак «X».
-
-Ссылки в тексте на порядковые номера формул указывают в скобках, например, "... в формуле (1)".
-
-Для абзацев текста, в которых содержатся формулы, рекомендуется устанавливать те же параметры, что и для основного текста.
-
-Пояснения символов и числовых коэффициентов, входящих в формулу, если они не пояснены ранее в тексте, должны быть приведены непосредственно под формулой.
-
-Пояснения каждого символа следует давать с новой строки в той последовательности, в которой символы приведены в формуле. Первая строка пояснения должна начинаться со
-слова "где" без двоеточия после него.
+Titles of sections **CONCLUSION, INTRODUCTION, CONCLUSION, LIST
+**MEMBERS ONLY**SIGN UP NOW*** always start on a new page, written in capital letters in the middle of the line, where:
+- Line spacing: - one and a half line spacing
+- Red line: - none
+- Paragraph indents and spacing: in the text - 0 cm.
 
 
-## ТАБЛИЦЫ
+## ENUMERATIONS (LISTS)
 
-Таблицы нумеруются арабскими цифрами сквозной нумерацией; название таблицы следует помещать над таблицей слева без абзацного отступа в одну строку с ее номером через тире, например, "Таблица 1 – Название" (в конце точка не ставится);
+Each position of an enumeration should be preceded by a dash or, if it is necessary to refer in the text of the document to one of the enumerations, by a lowercase letter starting with the letter ‘a’ (except for - d, e, z, y, o, ъ, s, y), followed by a parenthesis.
 
-Как и у рисунка, до вставки таблицы нужно указать ссылку на то, что в ней размещено. Например: «Цены на некоторое программное обеспечение представлены в
-таблице 1».
+**NOT** the use of the given dot ‘ ’ is allowed.
 
-Таблицы слева, справа и снизу ограничивают линиями. 
+When there is a specific number of enumerations, it is acceptable to use Arabic numerals with brackets.
 
-Допускается применять размер шрифта в таблице меньший, чем в тексте.
-
-В приложениях таблицы обозначаются: Таблица А.1 - Исходные данные.
-
-Если таблица занимает больше двух страниц, то после первого переноса таблицы пишут «Продолжение таблицы 1», а на самом
-последнем листе «Окончание таблицы 1».
-
-Графу "Номер по порядку" в таблицу включать не допускается. При необходимости нумерации показателей, параметров или других данных порядковые номера следует указывать в первой графе (боковике) таблицы непосредственно перед их наименованием.
+To further elaborate on the enumerations, Arabic numerals followed by a parenthesis should be used, and the entry should be indented as in normal text.
+regular text.
 
 
-## ПРИЛОЖЕНИЯ
+## FIGURES
 
-В приложения можно вынести часть рисунков и фрагменты исходного кода, акты внедрения результатов работы и др. 
+BEFORE inserting a figure, there must be a reference to it in the text, **a full caption** under the figure, and a blank line after the figure.
 
-Приложения НЕ нумеруются числами, а обозначаются РУССКИМИ БУКВАМИ. Если приложение одно, то оно обозначается "ПРИЛОЖЕНИЕ А".
+Abbreviations like Fig.5 are not allowed! In the text it is obligatory to write in full - Figure 5. If there is only one figure in the report, it should be labelled ‘Figure 1’. 
 
-Каждое приложение начинается с новой страницы.
 
-На все приложения, так же, как и на рисунки, в тексте отчета должны быть даны ссылки, например: "Фрагмент кода главной страницы представлен а приложении А".
+## FORMULAS AND EQUATIONS
 
-Подписи к рисункам будут соответствующие: Рисунок А -...., - если рисунок один в приложении. Или: Рисунок А.1 - ... и т.д., если в одном приложении несколько рисунков.
+Equations and formulae should be separated from the text on a separate line. At least one free line should be left above and below each formula or equation.
 
-## СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ
-Необходимо, чтобы на каждый пункт списка использованных источников обязательно в тексте были ссылки (в квадратных скобках с номером источника).
+If an equation does not fit on one line, it should be moved after the equal sign (=) or after the plus (+), minus (-), multiplication (x), division (:), or other mathematical signs, with the equation sign following the equals sign (=) or after the plus (+), minus (-), multiplication (x), division (:), or other
+mathematical signs, with the sign at the beginning of the next line repeated. When transposing a formula on a sign symbolising a multiplication operation, the ‘X’ sign is used.
 
-Источники в списке следует располагать в порядке появления ссылок на источники в тексте пояснительной записки и нумеровать арабскими цифрами без точки и печатать с абзацного отступа, как и обычный текст.
+References in the text to ordinal numbers of formulas are indicated in brackets, for example, ‘.... in formula (1)’.
 
-**Например так в тексте:**
+For paragraphs of text containing formulae, it is recommended to set the same parameters as for the main text.
 
-Первой игрой был тетрис, появившейся на телефоне датского
-производства – Hagenuk MT-2000 [2].
-А в списке использованных источников под цифрой 2 должно быть название книги или электронного ресурса, откуда взята эта фраза. На один источник можно ссылаться
-несколько раз, но не нужно делать это в каждой фразе.
+Explanations of symbols and numerical coefficients included in the formula, if they are not explained earlier in the text, should be given directly below the formula.
+
+Explanations of each symbol should be given on a new line in the sequence in which the symbols are given in the formula. The first line of the explanation should begin with
+the word ‘where’ without a colon after it.
+
+
+## TABLES
+
+Tables are numbered in Arabic numerals by consecutive numbering; the title of the table should be placed above the table on the left without a paragraph indent in one line with its number through a dash, for example, ‘Table 1 - Title’ (no dot at the end);
+
+As with the figure, before inserting the table, you should provide a reference to what is placed in it. For example: ‘Prices for some software are presented in
+Table 1.’
+
+Tables on the left, right and bottom are limited by lines. 
+
+It is allowed to use a smaller font size in the table than in the text.
+
+In appendices, tables are labelled: Table A.1 - Initial data.
+
+If the table takes more than two pages, then after the first transfer of the table write ‘Continuation of Table 1’, and on the most
+on the very last page ‘End of Table 1’.
+
+It is not allowed to include the column ‘Number in order’ in the table. If it is necessary to number indicators, parameters or other data, the serial numbers should be indicated in the first column (sidebar) of the table immediately before their name.
+
+
+## APPENDICES
+
+Appendices may include some figures and fragments of source code, acts of implementation of the results of the work, etc. The appendices should be numbered by numbers. 
+
+Appendices are NOT numbered by numbers, but are labelled in RUSSIAN letters. If there is only one appendix, it is labelled ‘APPENDIX A’.
+
+Each appendix starts on a new page.
+
+All appendices, as well as figures, should be referenced in the text of the report, for example: ‘A snippet of the main page code is presented in Appendix A’.
+
+The captions to the figures will be appropriate: Figure A -...., - if there is only one figure in the appendix. Or: Figure A.1 - ... etc., if there are several figures in one annex.
+
+## LIST OF SOURCES USED
+It is necessary that each item in the list of used sources must be referenced in the text (in square brackets with the source number).
+
+Sources in the list should be arranged in the order of appearance of references to the sources in the text of the explanatory note and numbered with Arabic numerals without a dot and printed with a paragraph indent, as well as the usual text.
+
+**For example, in the text:**
+
+The first game was Tetris, which appeared on a Danish-made phone.
+Hagenuk MT-2000.
+And in the list of used sources under number 2 should be the name of the book or electronic resource from which this phrase is taken. One source can be referred to
+to one source several times, but it is not necessary to do it in every sentence.

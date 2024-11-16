@@ -1,6 +1,6 @@
 ---
-title: Git — распределенная система контроля версий
-summary: В этой статье будет дан краткий обзор системы контроля версий Git с акцентом на практическое применение ее основных команд.
+title: Git - a distributed version control system
+summary: This article will give a brief overview of the Git version control system with a focus on practical applications of its main commands.
 date: 2024-10-05
 
 # Featured image
@@ -18,139 +18,136 @@ tags:
 favorite: true
 ---
 
-Добро пожаловать 👋
+## Publication Objective.
 
-{{< toc mobile_only=true is_open=true >}}
-
-## Цель публикации.
-
-В этой статье будет дан краткий обзор системы контроля версий Git с упором на практическое применение ее основных команд. Несмотря на обилие информации о Git в Интернете, новичкам часто бывает трудно освоить ее, поскольку документация может быть сложной для понимания. 
-Цель этой статьи - дать четкое и краткое описание некоторых ключевых команд Git. Это позволит пользователям быстрее освоить систему и избежать бездумного применения команд без понимания их последствий. Кроме того, она станет кратким и емким введением в систему для новых пользователей.
+This article will give a brief overview of the Git version control system, with a focus on practical application of its basic commands. Despite the abundance of information about Git on the Internet, it can often be difficult for beginners to get to grips with it, as the documentation can be difficult to understand. 
+The purpose of this article is to provide a clear and concise description of some of the key Git commands. This will allow users to get to grips with the system more quickly and avoid mindlessly applying commands without understanding their implications. It will also provide a short and concise introduction to the system for new users.
 
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-## Предметная область и основные термины
+## Subject area and key terms
 
-***Система контроля версий - это программное обеспечение для работы с изменяющейся информацией, которое позволяет хранить несколько версий одного документа, возвращаться к более ранним версиям и определять, кто и когда внес изменения.***
+***A version control system is software for handling changing information that allows you to store multiple versions of a single document, revert to earlier versions, and determine who made changes and when.
 
-- *Git - распределенная система контроля версий*
-- *GitHub - сервис для использования Git*
+- *Git is a distributed version control system.
+- *GitHub is a service for using Git.
 
-### **Основные концепции Git**
+### **Main concepts of Git**
 
-- репозиторий - хранилище файлов и ссылок на изменения
-- фиксация - отслеживание изменений, учет отклонений
-- HEAD - символическая ссылка на последние изменения
-- Status «Detached HEAD» - HEAD не обязательно относится к фиксации
-- HEAD может указывать на ветку или коммит
+- repository - repository of files and references to changes
+- commit - track changes, keep track of deviations
+- HEAD - symbolic link to recent changes
+- Status ‘Detached HEAD’ - HEAD does not necessarily refer to a commit
+- HEAD can point to a branch or commit.
 
-### **Объекты Git**
+### **Git Objects**
 
-- Ветвь, дерево, фиксация, ссылки
-- Ветвь определяется операционной системой и файловой системой
-- Узнайте больше об объектах Git в документации
+- Branch, tree, commit, links
+- A branch is defined by the operating system and file system
+- Learn more about Git objects in the documentation
 
-### **Git-сервисы**
+### **Git Services**
 
-- Сервисы, предоставляющие услуги для пользователей Git
-- HEAD - указатель на текущую ветку
-- Рабочее дерево обычно формируется из состояния дерева, на которое ссылается HEAD
+- Services that provide services for Git users
+- HEAD is a pointer to the current branch
+- A working tree is usually formed from the tree state referenced by HEAD
 
-### **Рабочие зоны и команды**
+### **Working Zones and Commands**
 
-- рабочий каталог - рабочий каталог на компьютере
-- staging area - область подготовленных файлов
-- branch - ветка состоит из набора коммитов
-- merge - объединить ветки
-- pull - вытащить изменения с сервера
-- push - заталкивать изменения на сервер
+- working directory - working directory on the computer
+- staging area - an area of prepared files
+- branch - a branch consists of a set of commits
+- merge - merge branches
+- pull - pull changes from the server
+- push - push changes to the server
 
-### **Символы и команды**
+### **Symbols and commands**
 
-- _#_ - символ комментария
-- <> - угловые скобки
-- $ - подсказка ввода терминала
+- _#_ - comment symbol
+- <> - angle brackets
+- $ - terminal input prompt
 
-### **Приложение Git**
+### **Application Git**
 
-- Предназначен для работы распределенной команды разработчиков
-- Используется дизайнерами, писателями, редакторами, планировщиками, переводчиками
-- Часто используется кадровиками и менеджерами по персоналу
-- Экономичен, не требует пересылки большого количества файлов
-- Позволяет вернуться к предыдущим состояниям системы
-- Удобен для индивидуальной работы, позволяет исправлять ошибки и возвращаться к оптимальным версиям
+- Designed for distributed development team work
+- Used by designers, writers, editors, planners, translators
+- Often used by human resources and personnel managers
+- Economical, does not require sending a large number of files
+- Allows you to return to previous states of the system
+- Convenient for individual work, allows to correct errors and return to optimal versions.
 
 
 
-## История создания
+### History of creation
 
-### Цитата из Вики:
+### Quote from Wiki:
 
-Git (произносится «гит»[8]) - распределенная система контроля версий. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия была выпущена 7 апреля 2005 года. На сегодняшний день его поддержкой занимается Джунио Хамано.
+Git (pronounced ‘git’[8]) is a distributed version control system. The project was created by Linus Torvalds to manage the development of the Linux kernel, with the first version released on 7 April 2005. It is currently maintained by Junio Hamano.
 
-## Теоретическая часть
+### Theoretical part
 
-### **История и лицензия Git**
+### **History and licence of Git**
 
-- Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux.
-- Git распространяется под лицензией GNU GPL 2.
+- The project was created by Linus Torvalds to manage the development of the Linux kernel.
+- Git is distributed under the GNU GPL 2 licence.
 
-### **Основная цель системы контроля версий**.
+### **The main purpose of a version control system**.
 
-- Упрощение обработки изменяющихся потоков информации
-- Локализация данных каждого разработчика проекта
+- Simplify the handling of changing streams of information
+- Localisation of each project developer's data
 
-### **Локализация данных**.
+### **Data localisation**.
 
-- Каждый разработчик имеет локальный репозиторий на своей машине.
-- Изменения отправляются из локального репозитория в удаленный репозиторий
-- Любой разработчик может загрузить новые изменения для продолжения своей работы
+- Each developer has a local repository on their machine.
+- Changes are sent from the local repository to the remote repository
+- Any developer can download new changes to continue their work
 
-### **Стандарты и этика**
+### **Standards and Ethics**
 
-- Важно придерживаться стандартов оформления кода и работы с системой
-- Стандарты способствуют общению и взаимопониманию между разработчиками
-- Этика и культура помогают лучше понять друг друга
+- It is important to adhere to standards for code design and working with the system
+- Standards promote communication and understanding between developers
+- Ethics and culture help to better understand each other
 
-### **Типы систем контроля версий**
+### **Types of version control systems**
 
-- Централизованная: код хранится на сервере, все разработчики имеют доступ
-- Минусы: нет локального репозитория, затруднен доступ к ресурсу
-- Децентрализованная: у каждого разработчика свой репозиторий, быстрое восстановление
+- Centralised: code is stored on a server, all developers have access.
+- Cons: no local repository, difficult to access resource
+- Decentralised: each developer has their own repository, fast recovery
 
-### **Взаимодействие с другими системами**.
+### **Interoperability with other systems**.
 
-- Поддержка CVS и Subversion
-- Стандартный инструмент импорта и экспорта - архивы серий версионированных файлов
+- CVS and Subversion support
+- Standard import and export tool - archives of series of versioned files
 
-### **Концепции Git**
+### **Git Concepts**
 
-- Форк: удаленная копия репозитория на сервере
-- Клон: локальная копия удаленного репозитория
-- Ветвь: способ внесения изменений и их слияния с остальным кодом
-- Рабочее дерево: дерево исходных файлов для редактирования
-- Индекс: двоичный файл с информацией о файлах в текущей ветке
-- Указатель HEAD: ссылка на последний коммит в текущей веткеПрактическая часть
+- Fork: a remote copy of the repository on the server
+- Clone: a local copy of a remote repository
+- Branch: a way to make changes and merge them with the rest of the code
+- Working tree: tree of source files to edit
+- Index: binary file with information about the files in the current branch
+- HEAD pointer: reference to the last commit in the current branchPractical part
 
-## Практическая часть
+## Practice
 
-Чтобы использовать систему git, вам необходимо:
-1. Установить программу git на свою систему.
-2. Настроить программу и локально проверить ее работоспособность.
-3. Зарегистрируйте свой аккаунт на GitHub
-4. Создайте локальный репозиторий или скопируйте репозиторий существующего проекта
-5. Напишите файл README.MD.
-6. Если вы начинаете проект, создайте удаленный репозиторий.
-7. Зафиксируйте изменения локально
-8. Отправьте изменения на GitHub
-9. Зарегистрируйте учетные записи разработчиков для своего проекта
-10. Дайте им ссылку на проект
+To use the git system, you need to:
+1. Install the git software on your system.
+2. Configure the programme and test it locally.
+3. Register your account on GitHub
+4. Create a local repository or copy the repository of an existing project
+5. Write a README.MD file.
+6. If you are starting a project, create a remote repository.
+7. Commit the changes locally
+8. Submit the changes to GitHub
+9. Register developer accounts for your project
+10. Give them a link to the project
 
-Существует множество различных команд, которые позволяют взаимодействовать с репозиторием через руководство, ниже приведены несколько схем с различными командами.
+There are many different commands that allow you to interact with the repository through the guide, below are some diagrams with different commands.
 
-[На рисунке показано, как подготовить папку на локальном компьютере для работы с git.](ИндЛаб2.png)
 
-[Диаграмма на рис. 2 показывает, как работают команды add, commit all, commit, reset, git reset head, git update index.](ИндЛаб2.2.png)
+[The diagram shows how to prepare a folder on your local computer to work with git.](ИндЛаб2.png)
 
-[На схеме ниже показана разница между работой с локальным репозиторием и репозиторием на GitHub.](ИндЛаб2.3.png)
+[The diagram in Figure 2 shows how the commands add, commit all, commit, reset, git reset head, git update index work.](ИндЛаб2.2.png)
+
+[The diagram below shows the difference between working with a local repository and a GitHub repository.](ИндЛаб2.3.png)
