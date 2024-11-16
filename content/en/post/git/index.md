@@ -18,6 +18,10 @@ tags:
 favorite: true
 ---
 
+Добро пожаловать 👋
+
+{{< toc mobile_only=true is_open=true >}}
+
 ## Publication Objective.
 
 This article will give a brief overview of the Git version control system, with a focus on practical application of its basic commands. Despite the abundance of information about Git on the Internet, it can often be difficult for beginners to get to grips with it, as the documentation can be difficult to understand. 
