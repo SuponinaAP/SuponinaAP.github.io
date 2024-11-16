@@ -12,11 +12,20 @@ ru:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Chinese website title...
+  title: English website title...
   params:
-    description: Site description in Chinese...
+    description: Site description in English...
   menu:
     main:
-      - name: 传
-        url: '#about'
-        weight: 1
+  - name: Bio
+    url: /
+    weight: 10
+  - name: Papers
+    url: /#papers
+    weight: 11
+  - name: News
+    url: /#news
+    weight: 13
+  - name: Experience
+    url: experience/
+    weight: 20

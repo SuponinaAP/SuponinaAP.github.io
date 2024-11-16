@@ -81,7 +81,7 @@ education:
 
 # work:
 #   - position: Counsellor
-#     company_name: "Summer of Victories" Children's City Club
+#     company_name: Summer of Victories Children's City Club
 #     company_url: ''
 #     company_logo: ''
 #     date_start: 2023-06-01
