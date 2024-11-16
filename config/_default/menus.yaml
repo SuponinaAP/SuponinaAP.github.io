@@ -7,9 +7,6 @@ main:
   - name: Данные
     url: /
     weight: 10
-  - name: Статьи
-    url: /#papers
-    weight: 11
   - name: Новости
     url: /#news
     weight: 13
