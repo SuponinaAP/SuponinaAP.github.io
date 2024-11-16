@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Анастасия
+title: Anastasia
 
 # Name pronunciation (optional)
-name_pronunciation: Супонина Анастасия Павловна
+name_pronunciation: Suponina Anastasia Pavlovna
 
 # Full name (for SEO)
-first_name: Анастасия
-last_name: Супонина
+first_name: Anastasia
+last_name: Suponina
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: студент
+role: student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru/
 
 # Social network links
@@ -58,21 +58,21 @@ profiles:
     url: https://github.com/
     label: GitHub
 interests:
-  - Музыка и гитара
-  - Программирование 
-  - Литература
+  - Music and guitar
+  - Programming 
+  - Literature
 
 education:
-  - area: бакалавр
-    institution: РУДН
+  - area: bachelor
+    institution: RUDN
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      Я окончила Российский университет дружбы народов имени Патриса Лумумбы со степенью бакалавра по специальности «Прикладная математика и информатика».
+      I graduated from the Peoples' Friendship University of Russia named after Patrice Lumumba with a Bachelor's degree in Applied Mathematics and Informatics.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: магистратура
+  - area: magistracy
     institution: РУДН
     date_start: 2024-09-01
     date_end: 2026-07-01
@@ -81,17 +81,17 @@ education:
 
 # experience
 work:
-  - position: Вожатая
-    company_name: Детский городской клуб "Лето Побед"
+  - position: Counsellor
+    company_name: Children's City Club ‘Summer of Victories’
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
-    date_end: '2023-08-27'
-    summary: |2-
-      В обязаности входило:
-      - Сопровождение детей на разные мероприятия
-      - Создание вместе с детьми разных выступлений для концертов
-      - Создание и проведение развлекательной и позновательной программы
+    date_end: 2023-08-27
+    summary: |
+      Duties included:
+      - Accompanying children to different events
+      - Creating together with children different performances for concerts
+      - Creating and conducting entertaining and informative programme
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,23 +118,23 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Гитара
+      - name: guitar
         description: ''
         percent: 60
         icon: guitar
-      - name: Кошки
+      - name: cats
         description: ''
         percent: 100
         icon: cat
-      - name: Стихи
+      - name: reading
         description: ''
         percent: 80
         icon: book
 
 languages:
-  - name: Русский язык
+  - name: Russian
     percent: 100
-  - name: Английский язык
+  - name: English
     percent: 50
 
 # Awards.
