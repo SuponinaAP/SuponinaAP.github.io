@@ -73,9 +73,9 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: magistracy
-    institution: РУДН
-    date_start: 2024-09-01
-    date_end: 2026-07-01
+    institution: RUDN
+    date_start: '2024-09-01'
+    date_end: '2026-07-01'
     summary: |
       GPA: 3.8/4.0
 
@@ -85,7 +85,7 @@ work:
     company_name: "Summer of Victories" Children's City Club
     company_url: ''
     company_logo: ''
-    date_start: 2023-06-01
+    date_start: '2023-06-01'
     date_end: '2023-08-27'
     summary: |2-
       Duties included:
