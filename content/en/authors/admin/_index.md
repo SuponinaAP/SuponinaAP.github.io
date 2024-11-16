@@ -173,6 +173,7 @@ awards:
         - which tasks can be completely outsourced to a computer;
         - which process steps can only be performed by a human;
         - most importantly, to distinguish a) from b).
+
 ---
 
 ## About me
