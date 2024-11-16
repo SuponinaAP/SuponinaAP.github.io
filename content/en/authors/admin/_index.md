@@ -81,17 +81,17 @@ education:
 
 # experience
 work:
-  - position: Counsellor
-    company_name: "Summer of Victories" Children's City Club
+  - position: Вожатая
+    company_name: Детский городской клуб "Лето Побед"
     company_url: ''
     company_logo: ''
-    date_start: '2023-06-01'
+    date_start: 2023-06-01
     date_end: '2023-08-27'
     summary: |2-
-      Duties included:
-      - Accompanying children to different events
-      - Creating together with children different performances for concerts
-      - Creating and conducting entertaining and informative programme
+      В обязаности входило:
+      - Сопровождение детей на разные мероприятия
+      - Создание вместе с детьми разных выступлений для концертов
+      - Создание и проведение развлекательной и позновательной программы
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
