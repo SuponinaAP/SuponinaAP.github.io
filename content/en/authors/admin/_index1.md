@@ -79,7 +79,6 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-# experience
 work:
   - position: Counsellor
     company_name: "Summer of Victories" Children's City Club
