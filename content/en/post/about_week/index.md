@@ -1,5 +1,5 @@
 ---
-title: A post about the results of the past week from 2023-10-28 to 2023-11-02.
+title: A post about the results of the past week from 2023-10-28 to 2023-11-02
 summary: A short story about what I did during the week.
 date: 2024-11-02
 authors:
@@ -8,7 +8,7 @@ tags:
   - Python
   - Julia
   - Markdown
-  - РУДН
+  - RUDN
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
