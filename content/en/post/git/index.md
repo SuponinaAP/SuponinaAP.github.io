@@ -15,7 +15,6 @@ tags:
   - Git
   - Markdown
 
-favorite: true
 ---
 
 Добро пожаловать 👋
