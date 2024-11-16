@@ -142,39 +142,39 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Практикум по математике и Python
+  - title: A workshop on maths and Python
     url: https://stepik.org/course/3356/syllabus
     date: '2022-08-31'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Практикум по математике и Python", в котором ознакомилась с основными возможностями языка программирования python. Изучила типы, основные циклы и функции, а также библиотеки, такие как numpy.
-  - title: Основы Python
+      I have successfully completed a course on the Stepik platform called ‘Maths and Python Workshop’ in which I learnt the basic features of the python programming language. I learnt types, basic loops and functions, and libraries such as numpy.
+  - title: Python Fundamentals
     url: https://ru.hexlet.io/courses/python-basics
     date: '2022-07-25'
     awarder: hexlet
     icon: hexlet
     summary: |
-      Я успешно завершила курс на платформе hexlet под названием "Основы Python", в котором изучила базовые основы языка программирования Python.
-  - title: Введение в Data Science и машинное обучение
+      I have successfully completed a course on the hexlet platform called ‘Python Fundamentals’ in which I learnt the basic fundamentals of the Python programming language.
+  - title: Introduction to Data Science and Machine Learning
     url: https://stepik.org/course/4852/promo
     date: '2023-01-24'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Введение в Data Science и машинное обучение", в изучила библиотеки для анализа данных, используя язык программирования Python — Pandas и Scikit-learn.
-  - title: Машинное обучение
+      I have successfully completed a course on the Stepik platform called ‘Introduction to Data Science and Machine Learning’, in learning libraries for data analysis using the Python programming language - Pandas and Scikit-learn.
+  - title: Machine learning
     url: https://stepik.org/course/8057/promo
     date: '2023-01-24'
     awarder: Stepik
     icon: stepik
     summary: |
-      Я успешно завершила курс на платформе Stepik под названием "Машинное обучение", в котором научилась обрабатывать большие объемы данных и извлекать из них скрытые закономерности. А также узнала:
-        - какие задачи можно полностью поручить ЭВМ;
-        - какие этапы процесса сможет выполнить лишь человек;
-        - самое главное – отличать пункт а) от пункта б).
+      I successfully completed a course on the Stepik platform called Machine Learning, in which I learnt how to process large amounts of data and extract hidden patterns from it. I also learnt
+        - which tasks can be completely outsourced to a computer;
+        - which process steps can only be performed by a human;
+        - the most important thing is to distinguish point a) from point b).
 ---
 
-## Обо мне
+## About me
 
-Меня зовут Супонина Анастасия. В данный момент я являюсь студенткой первого курса магистратуры rudn по направлению «Прикладная математика и информатика». Ранее я училась на бакалавриате в том же университете и по тому же направлению. Мне нравится заниматься этим, но я также люблю различные творческие занятия.
+My name is Suponina Anastasia. At the moment I am a first-year student of the Master's programme at rudn in the direction of ‘Applied Mathematics and Informatics’. Previously I studied at the bachelor's programme at the same university and in the same direction. I enjoy doing this, but I also like various creative activities.
