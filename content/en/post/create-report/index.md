@@ -11,7 +11,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-## Report formatting.
+# Report formatting.
 
 ## STRUCTURAL ELEMENTS
 
