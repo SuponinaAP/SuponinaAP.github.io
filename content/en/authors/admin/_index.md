@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anastasia
+title: Anastasi
 
 # Name pronunciation (optional)
 name_pronunciation: Suponina Anastasia Pavlovna
